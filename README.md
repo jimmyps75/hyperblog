@@ -12,6 +12,7 @@
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 - Prueba de comando cherry-pick
 - esta prueba es impoertante los comando de Fredy
+- Disponible para todas las edades
 
 # Editor.md
 
