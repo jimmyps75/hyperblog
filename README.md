@@ -10,6 +10,8 @@
 - Support identification, interpretation, fliter of the HTML tags;
 - Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+- Prueba de comando cherry-pick
+- esta prueba es impoertante los comando de Fredy
 
 # Editor.md
 
